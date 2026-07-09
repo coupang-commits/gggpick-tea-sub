@@ -1,5 +1,5 @@
 ---
-title: "유리 teapots와陶器 teapots의 차이점은?"
+title: "유리 teapots와 teapots의 차이점은?"
 date: 2026-06-05T02:30:47.797+09:00
 slug: "유리-teapots와-teapots의-차이점은"
 description: "teapots는 사용자의 취향과 필요에 따라 달라질 수 있습니다. 사용자는 자신의 취향과 필요에 따라 유리 teapots,陶器 teapots, 또는 tea infusers를 선택할 수 있습니다."
